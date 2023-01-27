@@ -22,7 +22,6 @@ EXECUTE THE PROGRAM
     </head>
     <body>
         <h1>My Timetable</h1>
-        <img src="myapp/static/logo.png">
         <table border="5">
             <tr>
                 <td align="center" colspan="10">TIME TABLE</td>
@@ -130,4 +129,6 @@ EXECUTE THE PROGRAM
 ```
 
 # OUPUT
+![output](timetable.png)
+# result
 thus the experiment executed sucessfully
